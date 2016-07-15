@@ -1,0 +1,14 @@
+<DProject>
+ <ProjectGuid>1d806158-7fa8-4942-94b0-713d04eb4624</ProjectGuid>
+ <Config name="Debug">
+  <subsystem>2</subsystem>
+  <libfiles>ole32.lib kernel32.lib user32.lib comctl32.lib comdlg32.lib</libfiles>
+ </Config>
+ <Config name="Release">
+  <subsystem>2</subsystem>
+  <libfiles>ole32.lib kernel32.lib user32.lib comctl32.lib comdlg32.lib</libfiles>
+ </Config>
+ <Folder name="D_Win32_SampleApp">
+  <File path="winmain.d" />
+ </Folder>
+</DProject>
